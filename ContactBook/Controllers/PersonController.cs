@@ -12,13 +12,8 @@ namespace ContactBook.Controllers
     public class PersonController : Controller
     {
 		//This is a change in my test branch.Added a new feature branch.
-		//Changes to develop after merging feature into develop.
 		//commit 1 of feature branch
 		//commit 2 of feature branch
-		//making a change in develop and pushing in github.Changed
-		//Trying a push to assembla.
-		//let me be 2 ahead
-
         private PersonDbContext db = new PersonDbContext();
 
         //
